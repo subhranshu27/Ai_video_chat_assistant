@@ -23,7 +23,7 @@ langchain-core>=0.2.0
 langchain-community>=0.2.0
 langchain-mistralai>=0.1.0        # LangChain wrapper for Mistral API
 mistralai>=0.4.0                  # Official Mistral Python client
-langchain-google-genai
+langchain-google-genai>=2.0.0
 # ── RAG Pipeline ──────────────────────────────────────────────────────────────
 chromadb>=0.5.0                   # Local vector store
 pysqlite3-binary>=0.5.0           # Modern SQLite build — required for chromadb on Streamlit Cloud
